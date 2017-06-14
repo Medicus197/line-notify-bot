@@ -1,0 +1,6 @@
+Token
+https://notify-bot.line.me/my/
+
+$stickerPkg = 2; //STKPKGID
+$stickerId = 22; //STKID
+https://devdocs.line.me/files/sticker_list.pdf
